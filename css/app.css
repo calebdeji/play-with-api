@@ -55,8 +55,8 @@ body main #root .card .header h3 {
 body main #root .card .para {
   padding: 1em;
 }
-@media screen and (max-width:500px) {
+@media screen and (max-width:800px) {
   body main #root .card {
-    flex: 50%;
+    flex: 70%;
   }
 }
